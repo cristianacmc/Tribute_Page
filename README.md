@@ -3,6 +3,7 @@
 This is the first project of the course freeCodeCamp.
 To build this single web page, I used HTML and plain Css
 
+
 ## User Stories
 
 In order to complete the project I had to fulfill the below *user stories*
@@ -25,9 +26,11 @@ In order to complete the project I had to fulfill the below *user stories*
 
 - **User Story #9:** The img element should be centered within its parent element
 
+
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
