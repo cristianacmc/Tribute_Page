@@ -1,9 +1,46 @@
 body {
+	font-family: courier, arial, helvetica;
 	text-align: center;
+	line-height: 1.8em;
+}
+
+#main {
+	background-color: rgba(143, 188, 143, 0.1);
+	padding: 5px 20px 0 20px;
+
+}
+
+#title {
+	font-family: Cantarell;
+	font-size: 3em;
+}
+
+p {
+	position: relative;
+	margin-top: o;
 }
 
 #img-div {
-
 	text-align: center;
 	display: block;
+	background-color: white;
+	border-radius: 5px;
+	padding-bottom: 5px;
+}
+
+#image {
+	margin: 20px auto 5px auto;
+}
+
+#img-caption {
+	margin: 5px 0 10px 0;
+	font-size: 14px;
+	font-style: italic;
+}
+
+ul {
+	max-width: 550px;
+	line-height: 1.6;
+	margin: 5px 0 50px 0;
+	text-align: left;
 }
