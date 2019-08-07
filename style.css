@@ -1,6 +1,9 @@
 body {
 	font-family: Helvetica Neue, courier, arial, helvetica;
 	line-height: 1.8em;
+	margin:0;
+	top:0;
+	right:0;
 }
 
 #main {
@@ -32,6 +35,8 @@ p {
 #image {
 	margin: 20px auto 5px auto;
 	border-radius: 5px;
+	max-width:100%;
+	display:block;
 }
 
 #img-caption {
