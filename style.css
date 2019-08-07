@@ -1,12 +1,13 @@
 body {
 	font-family: courier, arial, helvetica;
-	text-align: center;
+	t
 	line-height: 1.8em;
 }
 
 #main {
 	background-color: rgba(143, 188, 143, 0.1);
-	padding: 5px 20px 0 20px;
+	padding: 5px 20px 10px 20px;
+	text-align: center;
 
 }
 
@@ -30,6 +31,7 @@ p {
 
 #image {
 	margin: 20px auto 5px auto;
+	border-radius: 5px;
 }
 
 #img-caption {
@@ -38,9 +40,23 @@ p {
 	font-style: italic;
 }
 
-ul {
-	max-width: 550px;
+h2 {
+
+	margin: 60px 0 60px 0;
+}
+
+#tribute-info {
+	max-width: 600px;
 	line-height: 1.6;
-	margin: 5px 0 50px 0;
+	margin: 0 auto 10px auto;
 	text-align: left;
+}
+
+li {
+	margin: 0 0 20px 0;
+}
+
+blockquote {
+	font-style: italic;
+	margin: 60px 0 60px 0 ;
 }
